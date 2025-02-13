@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey! 👋
+I'm Ben Wortley, a software engineer and SEO specialist from London, England.
+
+- 📊 I founded [More Clicks Ltd](https://moreclicks.co.uk) (Digital Marketing SEO Agency)
+- 🏁 I founded [TOW Motorsport Ltd](https://towmotorsport.co.uk) (Performance Motorsport Parts)
+
+## Contact
+- [Beno.so](https://beno.so)
+- [@ben_wortley](https://x.com/Ben_Wortley) on Twitter/X
+
 
 <!--
 **BenWortley/BenWortley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
