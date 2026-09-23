@@ -1,9 +1,9 @@
-## Hey! 👋
+## Hey!
 I'm Ben Wortley, a software engineer and SEO specialist from London, England.
 
-- 📊 I founded [More Clicks Ltd](https://moreclicks.co.uk) (Digital Marketing SEO Agency)
-- 🔫 I founded [The Airsoft Exchange](https://airsoftexchange.uk) (UKs Premier Airsoft Marketplace)
-- 🏁 I founded [TOW Motorsport Ltd](https://towmotorsport.co.uk) (Performance Motorsport Parts)
+- I founded [More Clicks Ltd](https://moreclicks.co.uk) (Digital Marketing SEO Agency)
+- I founded [The Airsoft Exchange](https://airsoftexchange.uk) (UKs Premier Airsoft Marketplace)
+- I founded [TOW Motorsport Ltd](https://towmotorsport.co.uk) (Performance Motorsport Parts)
 
 ## Contact
 - [Beno.so](https://beno.so)
